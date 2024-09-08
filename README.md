@@ -1,3 +1,4 @@
+<h1>Crop Recommnedation System</h1>
 The project presented here focuses on developing a Crop Recommendation System using machine learning
 techniques. This system aims to assist farmers in making informed decisions about the most suitable crops to
 cultivate given specific soil and climate parameters.
